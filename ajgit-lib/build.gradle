@@ -27,6 +27,11 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
+    // from pom.xml in jgit repository root
+    implementation 'com.jcraft:jsch:0.1.50'
+    implementation 'com.googlecode.javaewah:JavaEWAH:0.7.9'
+    implementation 'org.slf4j:slf4j-log4j12:1.7.2'
+
     implementation 'com.android.support:appcompat-v7:26.1.0'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
