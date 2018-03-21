@@ -1,1 +1,1 @@
-include ':app', ':ajgit-lib'
+include ':ajgit-lib'
