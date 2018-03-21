@@ -15,3 +15,6 @@ or
 
 ## How to use
 `git clone` and set gradle dependency to ajgit-lib/ dir.
+
+## Coding samples
+https://github.com/centic9/jgit-cookbook/
