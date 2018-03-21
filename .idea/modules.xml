@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ajgit.iml" filepath="$PROJECT_DIR$/ajgit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ajgit-lib/ajgit-lib.iml" filepath="$PROJECT_DIR$/ajgit-lib/ajgit-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
